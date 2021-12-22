@@ -1,0 +1,27 @@
+body{
+    background:ghostwhite;
+}
+a{
+text-decoration:none;
+font-size: 40px;
+transition: 0.4s;
+
+}
+a:visited {
+color:#666666;
+text-decoration:none
+}
+a:hover{
+font-size: 50px;
+transition: 0.7s;
+}
+h1{
+font-size: 60px;
+font-family: 'Times New Roman', sans-serif;
+
+}
+p{
+font-size: 20px;
+font-family: 'Arial', sans-serif;
+
+}
